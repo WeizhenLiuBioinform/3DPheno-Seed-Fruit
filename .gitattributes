@@ -1,3 +1,0 @@
-MYAppInstaller_mcr.exe filter=lfs diff=lfs merge=lfs -text
-d/3project/3DPheno/configuration/MYAppInstaller_mcr.exe filter=lfs diff=lfs merge=lfs -text
-configuration/MYAppInstaller_mcr.exe filter=lfs diff=lfs merge=lfs -text
