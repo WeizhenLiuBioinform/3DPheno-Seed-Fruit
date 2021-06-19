@@ -4,7 +4,7 @@
 
 ## Start
 First of all, clone the code
-[Web links](https://github.com/WeizhenLiuBioinform/3DPheno-Seed-Fruit.git)
+ [Web links](https://github.com/WeizhenLiuBioinform/3DPheno-Seed-Fruit.git)
 
 
 
