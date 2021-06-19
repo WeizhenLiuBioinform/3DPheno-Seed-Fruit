@@ -27,7 +27,7 @@ Wuhan Gooalgene Technology Co.,Ltd
 Wuhan, Hubei 430070, China
 
 ## Author
-Weizhen  
+Weizhen Liu
 liuweizhen@whut.edu.cn  
 liuchang001@whut.edu.cn
 
