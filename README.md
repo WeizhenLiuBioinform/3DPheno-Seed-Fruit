@@ -21,6 +21,21 @@ The software has been configured, When you click the above Web links to download
   - The test data set is stored in the Date folder under the root directory
   - We have also prepared the results that have been run, stored in the Data\View Demo folder, you can try to run according to the demo video
 
+## Contact 
+Wuhan University of Technology,  
+Wuhan Gooalgene Technology Co.,Ltd  
+Wuhan, Hubei 430070, China
+
+## Author
+Weizhen Liu  
+liuweizhen@whut.edu.cn  
+liuchang001@whut.edu.cn
+
+## papers published
+High-Throughput Phenotyping of Morphological Seed and Fruit Characteristics Using X-Ray Computed Tomography
+
+
+
 
 
   
