@@ -1,6 +1,6 @@
 # Phenotypic analysis software-3DPheno-Seed-Fruit 
 ## Preview
-![image](https://github.com/WeizhenLiuBioinform/images/previewImage.png)
+![image](https://github.com/WeizhenLiuBioinform/3DPheno-Seed-Fruit/blob/master/images/previewImage.png)
 
 
 
