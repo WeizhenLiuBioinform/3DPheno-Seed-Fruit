@@ -27,10 +27,10 @@ Wuhan Gooalgene Technology Co.,Ltd
 Wuhan, Hubei 430070, China
 
 ## Author
-Weizhen Liu
+Weizhen Liu  
 liuweizhen@whut.edu.cn  
 liuchang001@whut.edu.cn
-
+ 
 ## papers published
 title:High-Throughput Phenotyping of Morphological Seed and Fruit Characteristics Using X-Ray Computed Tomography  
 -[papers address](https://www.frontiersin.org/articles/10.3389/fpls.2020.601475/full)
